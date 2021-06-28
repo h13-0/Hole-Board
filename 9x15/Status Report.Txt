@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[9x15.GTO]
+   Generated File[9x15.GTS]
+   Generated File[9x15.GTL]
+   Generated File[9x15.GBL]
+   Generated File[9x15.GM1]
+   Generated File[9x15.RUL]
+   Generated File[9x15.EXTREP]
+   Generated File[9x15.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 17:11:32 On 2021/6/28
